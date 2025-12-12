@@ -1,0 +1,5 @@
+{
+  "name": "AyatCard AI",
+  "description": "An AI-powered Quran card generator and editor using Gemini Nano Banana models. Design beautiful cards and export configurations for automation.",
+  "requestFramePermissions": []
+}
